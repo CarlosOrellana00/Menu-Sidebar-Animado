@@ -45,3 +45,4 @@ de la misma forma, al hacer click sobre el menu se volvera a abrir en forma comp
 
 - [Autor Original -> Tuat Tran Anh](https://www.youtube.com/c/TuatTranAnh)
 - [Video Original -> Sidebar Menu Expand from Hamburger Menu with Animation Using HTML CSS JavaScript](https://www.youtube.com/watch?v=1SuZOMMtzPs&t=1s)
+- [Iconos -> Ioinicicons](https://ionic.io/ionicons)
